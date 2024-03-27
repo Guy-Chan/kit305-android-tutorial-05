@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302651247779",
+    "project_id": "kit721-sqlite",
+    "storage_bucket": "kit721-sqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302651247779:android:baeca437ada5edf64d8316",
+        "android_client_info": {
+          "package_name": "au.edu.utas.kit305.tutorial05"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA19Es8FLVTI0ePy9LEWk459iOjxDoOUpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
